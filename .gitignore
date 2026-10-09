@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated dashboard export (regenerate from the notebook)
+iris_data.csv
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
