@@ -9,20 +9,6 @@
 
 ---
 
-## 🌷 Table of Contents
-
-- [Overview](#-overview)
-- [Features and Visualizations](#-features-and-visualizations)
-- [Technology Stack](#-technology-stack)
-- [How the Application Works](#-how-the-application-works)
-- [Run Locally](#-run-locally)
-- [Project Structure](#-project-structure)
-- [Deploying Online](#-deploying-online)
-- [Limitations and Next Steps](#-limitations-and-next-steps)
-- [Learning Outcomes](#-learning-outcomes)
-
----
-
 ## 🌷 Overview
 
 **IrisLab** is an interactive data-science portfolio project built around the classic Iris flower dataset. It combines a Jupyter notebook for analysis with a browser-based dashboard served by a Python/Flask backend.
